@@ -1,0 +1,5 @@
+interview qns:
+https://www.indiabix.com/c-programming/pointers/#divAnswer_280
+
+questions :
+https://www.w3resource.com/c-programming-exercises/pointer/index.php
